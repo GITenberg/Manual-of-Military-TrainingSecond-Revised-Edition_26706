@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32193'
     url: http://www.gutenberg.org/2009/agents/32193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26706#Manual-of-Military-TrainingSecond-Revised-Edition
 gutenberg_issued: '2008-09-26'
 gutenberg_type: Text
 identifiers:
